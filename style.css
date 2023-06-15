@@ -3040,7 +3040,8 @@ Google Map Css
     background: url(images/portfolio_banner3.jpg) no-repeat;
     background-position: center center;
     padding: 30px 0 40px;
-    background-size: 105%;
+    background-size: cover; 
+/*     background-size: 105%; */
 }
 
 .hero_area_v8 .banner_content_v8 {
