@@ -5,7 +5,7 @@ body {
     margin: 0px;
     padding: 0px;
     /*font-size: 18px;*/
-    margin: 0px auto;
+    margin: 0px auto;x`
     font-family: 'Roboto', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -3037,7 +3037,7 @@ Google Map Css
 
 .hero_area_v8 {
 /*     background: url(images/portfolio_banner.jpg) no-repeat; */
-    background: url(images/13332.jpg) no-repeat;
+    background: url(images/portfolio_banner8.jpg) no-repeat;
     background-position: center center;
     padding: 30px 0 40px;
     background-size: cover; 
