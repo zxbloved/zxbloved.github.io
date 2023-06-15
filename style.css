@@ -3036,7 +3036,8 @@ Google Map Css
 ==================================================================*/
 
 .hero_area_v8 {
-    background: url(images/portfolio_banner.jpg) no-repeat;
+/*     background: url(images/portfolio_banner.jpg) no-repeat; */
+    background: url(images/portfolio_banner1.jpg) no-repeat;
     background-position: center center;
     padding: 30px 0 40px;
     background-size: 105%;
